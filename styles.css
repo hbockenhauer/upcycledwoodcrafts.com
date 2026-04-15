@@ -59,13 +59,13 @@ header {
 }
 
 .hero {
-    background-image: url('images/WoodTables.png'); /* Relative path to the image */
-    background-size: cover;
-    background-position: center;
+    background-image: url('images/outsidebench_new.jpg'); /* Relative path to the image */
+    background-size: 100% auto;
+    background-position: center 50%;
     background-repeat: no-repeat;
-    padding: 200px 50px;
+    padding: 250px 50px;
     text-align: center;
-    color: rgb(58, 245, 189);
+    color: rgb(62, 244, 234);
 }
 
 .text-container {
